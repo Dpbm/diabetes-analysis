@@ -1,4 +1,4 @@
-# Simple diabetes analysis using python (pandas, seaborn, scikit-learning and 🧠(or no))
+# Simple diabetes analysis using python (pandas, seaborn and scikit-learning)
 
 dataset from [repo](https://github.com/plotly/datasets/blob/master/diabetes.csv)
 
